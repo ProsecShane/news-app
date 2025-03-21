@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <id name="newsview"/>
+    <id name="searchbar"/>
+
+    <id name="preview_image"/>
+    <id name="preview_title"/>
+    <id name="preview_subtitle"/>
+</resources>
